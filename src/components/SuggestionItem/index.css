@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  list-style: none;
+  width: 40vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow {
+  height: 40px;
+  margin-right: 10px;
+}
